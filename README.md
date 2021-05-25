@@ -7,3 +7,4 @@ This repository contains Time Series Analysis models that can be used by clients
   - ARIMA
   - VAR
   - Prophet
+  - LSTM
